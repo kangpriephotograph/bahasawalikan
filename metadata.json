@@ -1,0 +1,6 @@
+{
+  "name": "Basa Walikan",
+  "description": "Aplikasi penerjemah Basa Walikan interaktif berbasis aturan sandi aksara Jawa Hanacaraka.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
